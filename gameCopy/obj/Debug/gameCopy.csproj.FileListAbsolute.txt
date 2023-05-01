@@ -1,0 +1,10 @@
+D:\oop\GameWithClass\gameCopy\obj\Debug\gameCopy.csproj.AssemblyReference.cache
+D:\oop\GameWithClass\gameCopy\obj\Debug\gameCopy.csproj.CoreCompileInputs.cache
+D:\oop\GameWithClass\gameCopy\bin\Debug\gameCopy.exe.config
+D:\oop\GameWithClass\gameCopy\bin\Debug\gameCopy.exe
+D:\oop\GameWithClass\gameCopy\bin\Debug\gameCopy.pdb
+D:\oop\GameWithClass\gameCopy\bin\Debug\EZInput.dll
+D:\oop\GameWithClass\gameCopy\bin\Debug\EZInput.xml
+D:\oop\GameWithClass\gameCopy\obj\Debug\gameCopy.csproj.CopyComplete
+D:\oop\GameWithClass\gameCopy\obj\Debug\gameCopy.exe
+D:\oop\GameWithClass\gameCopy\obj\Debug\gameCopy.pdb
