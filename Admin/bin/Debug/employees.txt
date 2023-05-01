@@ -1,0 +1,4 @@
+jamal,staff
+kamal,staff
+naka,staff
+oo,dr

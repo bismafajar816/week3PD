@@ -1,0 +1,7 @@
+D:\oop\week3PD\Admin\Admin\bin\Debug\Admin.exe.config
+D:\oop\week3PD\Admin\Admin\bin\Debug\Admin.exe
+D:\oop\week3PD\Admin\Admin\bin\Debug\Admin.pdb
+D:\oop\week3PD\Admin\Admin\obj\Debug\Admin.csproj.AssemblyReference.cache
+D:\oop\week3PD\Admin\Admin\obj\Debug\Admin.csproj.CoreCompileInputs.cache
+D:\oop\week3PD\Admin\Admin\obj\Debug\Admin.exe
+D:\oop\week3PD\Admin\Admin\obj\Debug\Admin.pdb
